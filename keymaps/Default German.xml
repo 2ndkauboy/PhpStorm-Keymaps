@@ -1,0 +1,16 @@
+<keymap version="1" name="Default German" parent="$default">
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift control SLASH" />
+    <keyboard-shortcut first-keystroke="shift control DIVIDE" />
+    <keyboard-shortcut first-keystroke="shift control NUMBER_SIGN" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="control SLASH" />
+    <keyboard-shortcut first-keystroke="control DIVIDE" />
+    <keyboard-shortcut first-keystroke="control NUMBER_SIGN" />
+  </action>
+  <action id="QuickChangeScheme">
+    <keyboard-shortcut first-keystroke="control BACK_QUOTE" />
+    <keyboard-shortcut first-keystroke="control DEAD_CIRCUMFLEX" />
+  </action>
+</keymap>
